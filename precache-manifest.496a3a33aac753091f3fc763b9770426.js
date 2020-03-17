@@ -1,67 +1,67 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e9e355bb4d7e1ac9346a9e5c7433656",
+    "revision": "81258b41f15a7a800a1717a05e2a4d25",
     "url": "/app-tur-leader/index.html"
   },
   {
-    "revision": "0a7d260e50109f0c8812",
+    "revision": "72421f92333c9372905b",
     "url": "/app-tur-leader/static/css/0.8bf4b66c.chunk.css"
   },
   {
-    "revision": "12a9a5b2d2818ca707fc",
+    "revision": "2b36815a58aaa24e1783",
     "url": "/app-tur-leader/static/css/10.2e5a9296.chunk.css"
   },
   {
-    "revision": "5089b5d5097f81bc0956",
+    "revision": "1f99861285ac499c85ed",
     "url": "/app-tur-leader/static/css/11.2e5a9296.chunk.css"
   },
   {
-    "revision": "4c8b9fdbff585e0aee7d",
+    "revision": "b205c2f0fc9259ddb39b",
     "url": "/app-tur-leader/static/css/12.2e5a9296.chunk.css"
   },
   {
-    "revision": "ce28be3bfb682373067a",
+    "revision": "595ffe7a76098863bba7",
     "url": "/app-tur-leader/static/css/4.8bf4b66c.chunk.css"
   },
   {
-    "revision": "7d65be95c4366af2dfc7",
+    "revision": "ae00f6d84808bd218036",
     "url": "/app-tur-leader/static/css/5.8bf4b66c.chunk.css"
   },
   {
-    "revision": "a19afac2c80e89533fbb",
+    "revision": "7c196e0cf5143ded6589",
     "url": "/app-tur-leader/static/css/6.8bf4b66c.chunk.css"
   },
   {
-    "revision": "521d554d68eb89fcc4fc",
+    "revision": "91b6daeb97fc6c20b659",
     "url": "/app-tur-leader/static/css/7.c261a07a.chunk.css"
   },
   {
-    "revision": "5ef973e52222b9afc271",
-    "url": "/app-tur-leader/static/css/8.5bbbf1da.chunk.css"
+    "revision": "a70b7e722cdf7112e56b",
+    "url": "/app-tur-leader/static/css/8.2e5a9296.chunk.css"
   },
   {
-    "revision": "536e39e43bf2eb3586e1",
+    "revision": "0eed110d8309c98c38b1",
     "url": "/app-tur-leader/static/css/9.2e5a9296.chunk.css"
   },
   {
-    "revision": "fbf6f3ca2069e0035ded",
-    "url": "/app-tur-leader/static/css/main.69805e99.chunk.css"
+    "revision": "1a7dc646f891d6a0910e",
+    "url": "/app-tur-leader/static/css/main.255a17ae.chunk.css"
   },
   {
-    "revision": "0a7d260e50109f0c8812",
-    "url": "/app-tur-leader/static/js/0.02e58cbd.chunk.js"
+    "revision": "72421f92333c9372905b",
+    "url": "/app-tur-leader/static/js/0.e9e6f975.chunk.js"
   },
   {
-    "revision": "12a9a5b2d2818ca707fc",
-    "url": "/app-tur-leader/static/js/10.30e9fb44.chunk.js"
+    "revision": "2b36815a58aaa24e1783",
+    "url": "/app-tur-leader/static/js/10.dc4137fa.chunk.js"
   },
   {
-    "revision": "5089b5d5097f81bc0956",
-    "url": "/app-tur-leader/static/js/11.0ad74ec2.chunk.js"
+    "revision": "1f99861285ac499c85ed",
+    "url": "/app-tur-leader/static/js/11.8ebf90f8.chunk.js"
   },
   {
-    "revision": "4c8b9fdbff585e0aee7d",
-    "url": "/app-tur-leader/static/js/12.c1ef9c02.chunk.js"
+    "revision": "b205c2f0fc9259ddb39b",
+    "url": "/app-tur-leader/static/js/12.54b094ac.chunk.js"
   },
   {
     "revision": "2978bce7e8a8085cfa67",
@@ -72,36 +72,36 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-tur-leader/static/js/3.dd62efda.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ce28be3bfb682373067a",
-    "url": "/app-tur-leader/static/js/4.5aa475a5.chunk.js"
+    "revision": "595ffe7a76098863bba7",
+    "url": "/app-tur-leader/static/js/4.97f9407f.chunk.js"
   },
   {
-    "revision": "7d65be95c4366af2dfc7",
-    "url": "/app-tur-leader/static/js/5.740c577d.chunk.js"
+    "revision": "ae00f6d84808bd218036",
+    "url": "/app-tur-leader/static/js/5.fc753cba.chunk.js"
   },
   {
-    "revision": "a19afac2c80e89533fbb",
-    "url": "/app-tur-leader/static/js/6.92fe3061.chunk.js"
+    "revision": "7c196e0cf5143ded6589",
+    "url": "/app-tur-leader/static/js/6.1b448927.chunk.js"
   },
   {
-    "revision": "521d554d68eb89fcc4fc",
-    "url": "/app-tur-leader/static/js/7.3f859c7b.chunk.js"
+    "revision": "91b6daeb97fc6c20b659",
+    "url": "/app-tur-leader/static/js/7.c536ccea.chunk.js"
   },
   {
-    "revision": "5ef973e52222b9afc271",
-    "url": "/app-tur-leader/static/js/8.5d126401.chunk.js"
+    "revision": "a70b7e722cdf7112e56b",
+    "url": "/app-tur-leader/static/js/8.82255f20.chunk.js"
   },
   {
-    "revision": "536e39e43bf2eb3586e1",
-    "url": "/app-tur-leader/static/js/9.43cfb404.chunk.js"
+    "revision": "0eed110d8309c98c38b1",
+    "url": "/app-tur-leader/static/js/9.649d0fd9.chunk.js"
   },
   {
-    "revision": "fbf6f3ca2069e0035ded",
-    "url": "/app-tur-leader/static/js/main.4fe28976.chunk.js"
+    "revision": "1a7dc646f891d6a0910e",
+    "url": "/app-tur-leader/static/js/main.39e6ed1b.chunk.js"
   },
   {
-    "revision": "bad2196baec03b59a773",
-    "url": "/app-tur-leader/static/js/runtime-main.6d28f8c8.js"
+    "revision": "812cdd881803cda121e0",
+    "url": "/app-tur-leader/static/js/runtime-main.45850155.js"
   },
   {
     "revision": "024030908618c2f40ae9a1c120a4a92f",
