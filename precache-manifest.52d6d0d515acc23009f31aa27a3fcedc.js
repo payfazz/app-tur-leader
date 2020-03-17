@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "81258b41f15a7a800a1717a05e2a4d25",
+    "revision": "d7a219f866d3a0e0f76796146d117802",
     "url": "/app-tur-leader/index.html"
   },
   {
@@ -24,11 +24,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-tur-leader/static/css/4.8bf4b66c.chunk.css"
   },
   {
-    "revision": "ae00f6d84808bd218036",
+    "revision": "8fe88dc11dd95903a4c9",
     "url": "/app-tur-leader/static/css/5.8bf4b66c.chunk.css"
   },
   {
-    "revision": "7c196e0cf5143ded6589",
+    "revision": "63bf70e20d328469f36f",
     "url": "/app-tur-leader/static/css/6.8bf4b66c.chunk.css"
   },
   {
@@ -76,12 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-tur-leader/static/js/4.97f9407f.chunk.js"
   },
   {
-    "revision": "ae00f6d84808bd218036",
-    "url": "/app-tur-leader/static/js/5.fc753cba.chunk.js"
+    "revision": "8fe88dc11dd95903a4c9",
+    "url": "/app-tur-leader/static/js/5.e2dcd4ac.chunk.js"
   },
   {
-    "revision": "7c196e0cf5143ded6589",
-    "url": "/app-tur-leader/static/js/6.1b448927.chunk.js"
+    "revision": "63bf70e20d328469f36f",
+    "url": "/app-tur-leader/static/js/6.160add68.chunk.js"
   },
   {
     "revision": "91b6daeb97fc6c20b659",
@@ -100,8 +100,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app-tur-leader/static/js/main.39e6ed1b.chunk.js"
   },
   {
-    "revision": "812cdd881803cda121e0",
-    "url": "/app-tur-leader/static/js/runtime-main.45850155.js"
+    "revision": "78be837a5dc584863a19",
+    "url": "/app-tur-leader/static/js/runtime-main.7f93169a.js"
   },
   {
     "revision": "024030908618c2f40ae9a1c120a4a92f",
